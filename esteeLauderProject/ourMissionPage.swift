@@ -139,7 +139,7 @@ struct ourMissionPage: View {
                             .frame(width: 275.0)
                             .controlSize(/*@START_MENU_TOKEN@*/.regular/*@END_MENU_TOKEN@*/)
                             .padding(.bottom, 30.0)
-                            .fontWeight(/*@START_MENU_TOKEN@*/.light/*@END_MENU_TOKEN@*/)
+                            .fontWeight(/*@START_MENU_TOKEN@*/.regular/*@END_MENU_TOKEN@*/)
                     } //close mini VStack
                     .accentColor(Color(hue:1.0,
                                        saturation: 0.603, brightness: 0.883))
